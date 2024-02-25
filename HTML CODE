@@ -1,0 +1,85 @@
+
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Landing Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #008CBA;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Crypto Landing Page</h1>
+    </header>
+
+    <section>
+        <h2>Welcome to our Crypto Platform</h2>
+        <p>Explore the world of cryptocurrencies and stay updated with the latest trends.</p>
+        <a href="#" class="cta-button">Get Started</a>
+    </section>
+
+    <footer>
+        &copy; 2024 Crypto Landing Page
+    </footer>
+
+</body>
+
+</html>
+```
+
+Feel free to modify and enhance the code according to your project requirements. You can add more sections, interactive features, or integrate it with JavaScript for additional functionality. Once you are ready, you can create a new repository on GitHub and upload this code as the initial commit.
